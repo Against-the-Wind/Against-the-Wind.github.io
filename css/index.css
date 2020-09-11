@@ -3,5 +3,7 @@ h1 {
 }
 p {
     text-align: center;
+    font-size: 1cm;
+    color: deepskyblue;
     font-family: "华文行楷","华文楷体","华文宋体";
 }
