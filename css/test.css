@@ -1,0 +1,18 @@
+.content {
+    background: deepskyblue;
+    height: 80px;
+    font-family: "华文行楷", "华文楷体", "华文宋体";
+    font-size: 35px;
+}
+.home {
+    text-align: center;
+    width: 10%;
+    height: 50%;
+}
+a:link {
+    color: white;
+    text-decoration: none;
+}
+.home:hover {
+    background: aqua;
+}
