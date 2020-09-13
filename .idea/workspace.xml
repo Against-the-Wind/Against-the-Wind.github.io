@@ -19,7 +19,9 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="73d6cae8-66ba-4c03-81c2-64393a66522c" name="Default Changelist" comment="Update test" />
+    <list default="true" id="73d6cae8-66ba-4c03-81c2-64393a66522c" name="Default Changelist" comment="Update test">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -87,6 +89,8 @@
       <workItem from="1599869757478" duration="526000" />
       <workItem from="1599896303127" duration="2573000" />
       <workItem from="1599906872474" duration="1910000" />
+      <workItem from="1599962882591" duration="183000" />
+      <workItem from="1599963089660" duration="36000" />
     </task>
     <task id="LOCAL-00001" summary="Reassemble index.html">
       <created>1599812980226</created>
