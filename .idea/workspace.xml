@@ -21,6 +21,8 @@
   <component name="ChangeListManager">
     <list default="true" id="73d6cae8-66ba-4c03-81c2-64393a66522c" name="Default Changelist" comment="Update test">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/index.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/test.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/test.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -61,7 +63,7 @@
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
-  <component name="RunManager" selected="JavaScript Debug.test.html">
+  <component name="RunManager" selected="JavaScript Debug.index.html">
     <configuration name="index.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Against-the-Wind.github.io/index.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
@@ -70,8 +72,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JavaScript Debug.test.html" />
         <item itemvalue="JavaScript Debug.index.html" />
+        <item itemvalue="JavaScript Debug.test.html" />
       </list>
     </recent_temporary>
   </component>
@@ -91,6 +93,7 @@
       <workItem from="1599906872474" duration="1910000" />
       <workItem from="1599962882591" duration="183000" />
       <workItem from="1599963089660" duration="36000" />
+      <workItem from="1599973011909" duration="238000" />
     </task>
     <task id="LOCAL-00001" summary="Reassemble index.html">
       <created>1599812980226</created>
